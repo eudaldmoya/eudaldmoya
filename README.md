@@ -34,8 +34,15 @@ Tech stack:
   <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=insomnia&logoColor=white&labelColor=000000" alt="Supertest" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Chromatic-7E13A2?style=flat&logo=chromatic&logoColor=white&labelColor=7E13A2" alt="Chromatic" />
-  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" alt="Strapi" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
 </div>
   
 List of projects:
