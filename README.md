@@ -3,6 +3,9 @@
 
 My name is Eudald and for the past few years I have developed a passion for web technologies. I am still new to this world but here you'll find some of the projects I have been working on.
 
+  ## Contact me 
+You can find me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eudaldmoya/).
+
   ## My Stack
 <!-- Horizontal Icons -->
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
@@ -28,8 +31,7 @@ My name is Eudald and for the past few years I have developed a passion for web 
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" alt="Wordpress" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /> 
 </div>
   
 ## List of projects:
