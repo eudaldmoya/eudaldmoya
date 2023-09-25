@@ -34,7 +34,7 @@ Tech stack:
   <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=insomnia&logoColor=white&labelColor=000000" alt="Supertest" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Chromatic-7E13A2?style=flat&logo=chromatic&logoColor=white&labelColor=7E13A2" alt="Chromatic" />
-  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
 </div>
   
