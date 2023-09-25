@@ -3,19 +3,6 @@
 
 My name is Eudald and for the past few years I have developed a passion for web technologies. I am still new to this world but here you'll find some of the projects I have been working on.
 
-Tech stack:
-  - HTML/CSS
-  - Javascript
-  - React
-  - NextJS
-  - Node.js
-  - Flutter/Dart
-  - PHP
-  - MySQL
-  - C/C++
-  - C#
-  - Headless CMS (Strapi, Sanity)
-  - Wordpress (Elementor)
   ## My Stack
 <!-- Horizontal Icons -->
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
@@ -45,7 +32,7 @@ Tech stack:
   
 </div>
   
-List of projects:
+## List of projects:
 
   - <a href="https://github.com/eudaldmoya/movies-site">React app using movies API</a>
   - <a href="https://eudaldmoya.github.io/VideoGames/index">API project showing videogames</a>
