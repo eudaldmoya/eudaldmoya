@@ -28,7 +28,6 @@ Beenther is a CRUD application build with REACT for the Front-End and MongoDB, E
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white&labelColor=17202C" alt="Cypress" />
   <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=insomnia&logoColor=white&labelColor=000000" alt="Supertest" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Chromatic-7E13A2?style=flat&logo=chromatic&logoColor=white&labelColor=7E13A2" alt="Chromatic" />
   <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" alt="Strapi" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
