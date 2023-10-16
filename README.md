@@ -7,7 +7,7 @@ My name is Eudald and for the past few years I have developed a passion for web 
 You can find me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eudaldmoya/).
 
   ## Beenther | Latest project
-Beenther is a CRUD application build with REACT for the Front-End and MongoDB, Express and Node.js for the Back-End. The app is tested to obtain 100% coverage with Jest, Vitest, React Testing Library, MSW and Supertest.
+This project reflects everything I have been learning and practicing for the past months. Beenther is a CRUD application build with REACT and Redux Toolkit for the Front-End and MongoDB, Express and Node.js for the Back-End. The app is tested to obtain 100% coverage with Jest, Vitest, React Testing Library, MSW and Supertest. Includes features like loading and error management, and authentication via Github managed with Firebase.
  - <a href="https://eudald-moya-final-project-202307-bcn.netlify.app/destinations">Beenther</a>
  
 
@@ -38,7 +38,7 @@ Beenther is a CRUD application build with REACT for the Front-End and MongoDB, E
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /> 
 </div>
   
-## List of projects:
+## List of past projects:
 
   - <a href="https://github.com/eudaldmoya/movies-site">React app using movies API</a>
   - <a href="https://eudaldmoya.github.io/VideoGames/index">API project showing videogames</a>
