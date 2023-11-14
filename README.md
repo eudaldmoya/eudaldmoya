@@ -7,7 +7,7 @@ My name is Eudald and for the past few years I have developed a passion for web 
 You can find me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eudaldmoya/).
 
   ## Beenther | Latest project
-This project reflects everything I have been learning and practicing for the past months. Beenther is a CRUD application build with REACT and Redux Toolkit for the Front-End and MongoDB, Express and Node.js for the Back-End. The app is tested to obtain 100% coverage with Jest, Vitest, React Testing Library, MSW and Supertest. Includes features like loading and error management, and authentication via Github managed with Firebase.
+This project reflects everything I have been learning and practicing for the past months. Beenther is a CRUD application build with REACT and Redux Toolkit for the Front-End and MongoDB, Express and Node.js for the Back-End. The app is tested to obtain 100% coverage with Jest, Vitest, React Testing Library, MSW and Supertest. Includes features like loading and error management, and authentication via Github and Google managed with Firebase.
  - <a href="https://beenther.netlify.app/home">Beenther</a>
  - <a href="https://github.com/eudaldmoya/Beenther-App-front">Front repo</a>
  - <a href="https://github.com/eudaldmoya/Beenther-App-back">Back repo</a>
